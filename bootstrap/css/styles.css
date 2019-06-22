@@ -1,0 +1,97 @@
+body{
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url("../../resources/image.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.login-box{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-left{
+    background-color: #c2c2c2;
+    padding: 30px;
+}
+.login-right{
+    background-color: #ffffff;
+    padding: 30px;
+}
+.linkstyle{
+    color: #000000;
+}
+
+.clock{
+    color: #ffffff;
+    display: flex;
+    justify-content: right;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.title{
+    height: 10vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.w,.x,.y,.z{
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.x{
+    background-color: #cbcbcb;
+}
+.y{
+    background-color: #cbcbcb;
+}
+
+
+.a,.b,.c,.d{
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b{
+    background-color: #cbcbcb;
+}
+.c{
+    background-color: #cbcbcb;
+}
+
+.x,.y{
+
+    border: 2px solid #171a1d;
+}
+
+.b,.c{
+
+    border: 2px solid #171a1d;
+}
+
+.title{
+    color: #cbcbcb;
+}
+.tchattl{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inpt{
+    margin-bottom: 40px;
+}
+
+.th{
+    color: #cb6432;
+    text-align: center;
+}
